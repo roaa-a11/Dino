@@ -1,2 +1,2 @@
 # Dino
-Play Chrome’s Dinosaur Game using hand gestures.
+Play Chrome’s Dinosaur Game using hand gestures.🦖🎮
